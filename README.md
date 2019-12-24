@@ -10,7 +10,7 @@ I edited the codes using WizIQ’s source code. It is compatible with WizIQ Next
 This example only includes the “create” method. You can create other methods using these files.
 
 ## wiziqservice.php
-Add your Access Key and Secret Access Key 
+Add your Access Key and Secret Access Key to the wiziqservice.php file
 
 
 https://sevketpolan.com/api-for-wiziq-virtual-classroom-php/
