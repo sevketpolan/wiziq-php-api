@@ -8,3 +8,9 @@ WizIQ’s Virtual Classroom is 100% browser-based. You can make your website an 
 I edited the codes using WizIQ’s source code. It is compatible with WizIQ NextGen / WizIQxt.
 
 This example only includes the “create” method. You can create other methods using these files.
+
+## wiziqservice.php
+Add your Access Key and Secret Access Key 
+
+
+https://sevketpolan.com/api-for-wiziq-virtual-classroom-php/
